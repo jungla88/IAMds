@@ -1,0 +1,32 @@
+graph molecule_4247 {
+	1	 [chem=C];
+	10	 [chem=H];
+	1 -- 10	 [valence=1];
+	11	 [chem=H];
+	1 -- 11	 [valence=1];
+	2	 [chem=Cl];
+	2 -- 1	 [valence=1];
+	3	 [chem=C];
+	3 -- 1	 [valence=1];
+	4	 [chem=C];
+	4 -- 3	 [valence=2];
+	12	 [chem=H];
+	4 -- 12	 [valence=1];
+	5	 [chem=C];
+	5 -- 3	 [valence=1];
+	13	 [chem=H];
+	5 -- 13	 [valence=1];
+	6	 [chem=C];
+	6 -- 4	 [valence=1];
+	14	 [chem=H];
+	6 -- 14	 [valence=1];
+	7	 [chem=C];
+	7 -- 5	 [valence=2];
+	8	 [chem=C];
+	7 -- 8	 [valence=1];
+	15	 [chem=H];
+	7 -- 15	 [valence=1];
+	8 -- 6	 [valence=2];
+	9	 [chem=F];
+	9 -- 8	 [valence=1];
+}

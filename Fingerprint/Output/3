@@ -1,0 +1,15 @@
+Evol 0. Err: 61.8026 %
+Evol 1. Err: 61.8026 %
+Evol 2. Err: 61.8026 %
+Evol 3. Err: 61.8026 %
+Evol 4. Err: 61.8026 %
+
+Classification error on Validation Set: 61.8026 %
+Parameters...
+Sigma1: 0.766
+Sigma2: 0.9363
+Sigma3: 0.9737
+Learning...
+Classifying the Test Set...
+Error Rate on Test Set: 62.6144 %
+(CPU) Execution time: 179.767 min

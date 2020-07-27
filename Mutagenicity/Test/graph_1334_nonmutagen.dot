@@ -1,0 +1,28 @@
+graph molecule_71 {
+	1	 [chem=O];
+	9	 [chem=H];
+	1 -- 9	 [valence=1];
+	2	 [chem=N];
+	2 -- 1	 [valence=1];
+	3	 [chem=C];
+	3 -- 2	 [valence=1];
+	4	 [chem=C];
+	4 -- 2	 [valence=1];
+	5	 [chem=O];
+	5 -- 3	 [valence=2];
+	6	 [chem=C];
+	6 -- 3	 [valence=1];
+	8	 [chem=C];
+	6 -- 8	 [valence=1];
+	10	 [chem=H];
+	6 -- 10	 [valence=1];
+	11	 [chem=H];
+	6 -- 11	 [valence=1];
+	7	 [chem=O];
+	7 -- 4	 [valence=2];
+	8 -- 4	 [valence=1];
+	12	 [chem=H];
+	8 -- 12	 [valence=1];
+	13	 [chem=H];
+	8 -- 13	 [valence=1];
+}

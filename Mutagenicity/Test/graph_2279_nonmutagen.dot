@@ -1,0 +1,14 @@
+graph molecule_2224 {
+	1	 [chem=C];
+	2	 [chem=O];
+	1 -- 2	 [valence=2];
+	3	 [chem=O];
+	1 -- 3	 [valence=1];
+	4	 [chem=O];
+	1 -- 4	 [valence=1];
+	6	 [chem=H];
+	3 -- 6	 [valence=1];
+	7	 [chem=H];
+	4 -- 7	 [valence=1];
+	5	 [chem=Ca];
+}

@@ -1,0 +1,15 @@
+graph molecule_982 {
+	1	 [chem=N];
+	2	 [chem=C];
+	1 -- 2	 [valence=1];
+	3	 [chem=O];
+	1 -- 3	 [valence=2];
+	4	 [chem=O];
+	1 -- 4	 [valence=1];
+	5	 [chem=Cl];
+	2 -- 5	 [valence=1];
+	6	 [chem=H];
+	2 -- 6	 [valence=1];
+	7	 [chem=H];
+	2 -- 7	 [valence=1];
+}

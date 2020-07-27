@@ -1,0 +1,2 @@
+ dot -Kfdp -n -Tpng -o test.png graphEx.dot
+

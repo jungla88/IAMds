@@ -1,0 +1,33 @@
+graph molecule_813 {
+	1	 [chem=C];
+	2	 [chem=C];
+	2 -- 1	 [valence=2];
+	3	 [chem=C];
+	3 -- 1	 [valence=1];
+	11	 [chem=H];
+	3 -- 11	 [valence=1];
+	4	 [chem=C];
+	4 -- 1	 [valence=1];
+	12	 [chem=H];
+	4 -- 12	 [valence=1];
+	5	 [chem=C];
+	5 -- 2	 [valence=1];
+	13	 [chem=H];
+	5 -- 13	 [valence=1];
+	6	 [chem=C];
+	6 -- 2	 [valence=1];
+	14	 [chem=H];
+	6 -- 14	 [valence=1];
+	7	 [chem=C];
+	7 -- 3	 [valence=2];
+	10	 [chem=N];
+	7 -- 10	 [valence=1];
+	15	 [chem=H];
+	7 -- 15	 [valence=1];
+	8	 [chem=N];
+	8 -- 4	 [valence=2];
+	9	 [chem=N];
+	8 -- 9	 [valence=1];
+	9 -- 5	 [valence=2];
+	10 -- 6	 [valence=2];
+}
